@@ -1,0 +1,42 @@
+﻿@model Unsplash
+@{
+    ViewBag.Title = "Ana Sayfa";
+}
+
+
+<div class="container-fluid pb-4 pt-4 paddding">
+    <div class="container paddding">
+        <div class="row mx-0">
+            <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
+                <div>
+                    <div class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Son Eklenenler</div>
+                </div>
+                @if (Model.Medias != null)
+                {
+                    foreach (var item in Model.Medias)
+                    {
+                        <div class="row pb-4">
+                            <div class="col-md-5">
+                                <div class="fh5co_hover_news_img">
+                                    <div class="fh5co_news_img">
+                                        <img src="@item.urls.thumb" alt="" />
+                                    </div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <div class="col-md-7 animate-box">
+                                <a href="#" class="fh5co_magna py-2">
+                                    @item.user.name
+                                </a>
+                                <div class="fh5co_consectetur">
+                                    @item.width @item.height @item.description @item.alt_description
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+            @await Html.PartialAsync("_SideBar")
+        </div>
+    </div>
+</div>

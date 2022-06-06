@@ -41,7 +41,6 @@ C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.A
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
-C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
@@ -125,7 +124,6 @@ C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.E
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -184,7 +182,6 @@ C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.F
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
-C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.Pipes.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.Linq.dll
@@ -386,3 +383,6 @@ C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\Blog.Infrastruct
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\Blog.WebUI.Infrastructure.dll
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\Blog.Infrastructure.Caching.Memory.pdb
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\Blog.WebUI.Infrastructure.pdb
+C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Site\bin\Debug\net5.0\refs\System.IO.Pipelines.dll

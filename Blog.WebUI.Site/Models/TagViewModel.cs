@@ -12,8 +12,10 @@
             Tag = new Model.Tag();
             Contents = new List<Model.Content>();
         }
-
         public Model.Tag Tag { get; set; }
+
+        public List<Model.Tag> Tags { get; set; }
+
         public List<Model.Content> Contents { get; set; }
 
         public int CurrentPage { get; set; }

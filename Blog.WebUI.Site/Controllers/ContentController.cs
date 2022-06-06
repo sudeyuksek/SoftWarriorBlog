@@ -32,7 +32,6 @@
             {
                 var category_content_ids = _contentCategoryData.GetBy(x => x.CategoryId == category.Id)
                 .Take(6).Select(x => x.ContentId).ToList();
-
                 relateds = _contentData.GetContentsByIds(category_content_ids, 6);
             }
             else

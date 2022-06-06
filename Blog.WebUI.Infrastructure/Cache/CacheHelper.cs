@@ -133,6 +133,28 @@ namespace Blog.WebUI.Infrastructure.Cache
             }
         }
 
+        private string Tags_CacheKey = "Tags_CacheKey";
+        public bool TagsClear() { return Clear(Tags_CacheKey); }
+
+        public List<Model.Tag> GetTags
+        {
+            get
+            {
+                var fromCache = Get<List<Model.Tag>>(Tags_CacheKey);
+                if (fromCache == null)
+                {
+                    var datas = _contentData.GetAllTags();
+                    if (datas != null && datas.Count() > 0)
+                    {
+                        Set(Tags_CacheKey, datas);
+                        fromCache = datas;
+                    }
+                }
+
+                return fromCache;
+            }
+        }
+
         public bool Clear(string name)
         {
             cache.Remove(name);

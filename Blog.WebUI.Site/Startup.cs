@@ -106,7 +106,7 @@ namespace Blog.WebUI.Site
                 routes.MapRoute(name: "category", template: "kategori/{slug}", defaults: new { controller = "Category", action = "Index", page = 1 });
                 routes.MapRoute(name: "categoryWithPage", template: "kategori/{slug}/sayfa/{page}", defaults: new { controller = "Category", action = "Index", page = 1 });
                 routes.MapRoute(name: "content", template: "{slug}", defaults: new { controller = "Content", action = "Index" });
-
+                routes.MapRoute(name: "tag", template: "tag/{slug}", defaults: new { controller = "Tag", action = "Index", page = 1 });
                 routes.MapRoute(name: "default", template: "{controller=Home}/{action=Index}/{id?}");
             });
         }

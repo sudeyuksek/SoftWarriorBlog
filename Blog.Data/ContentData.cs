@@ -29,9 +29,19 @@
                 .Take(count).ToList();
         }
 
+        public List<Model.Tag> GetAllTags()
+        {
+            return _context.Set<Model.Tag>()
+                .OrderBy(x => x.Name)
+                .ToList();
+        }
+
         public Model.Content GetContentBySlug(string slug)
         {
             var dtNow = DateTime.Now;
+
+            Console.Write(slug);
+
 
             return _context.Set<Model.Content>()
                 .OrderByDescending("PublishDate")

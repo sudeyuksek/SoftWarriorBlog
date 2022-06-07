@@ -15,15 +15,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebUI", "WebUI", "{F637F908
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extensions", "Extensions", "{4FFAFAE5-9332-4534-8293-EA56103816B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Extensions.MediaHelper", "Blog.Extensions.MediaHelper\Blog.Extensions.MediaHelper.csproj", "{F319184A-CE06-4BE2-BF7B-8D1F85BE70CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.Extensions.MediaHelper", "Blog.Extensions.MediaHelper\Blog.Extensions.MediaHelper.csproj", "{F319184A-CE06-4BE2-BF7B-8D1F85BE70CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C1480C75-8E84-4706-8A0A-566A5144067D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Caching", "Caching", "{CEC330AE-445B-4CF7-9CB6-88CD8431A455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Infrastructure.Caching.Memory", "Blog.Infrastructure.Caching.Memory\Blog.Infrastructure.Caching.Memory.csproj", "{26CFD8CA-BE51-47E7-8B92-A4BD677DE778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.Infrastructure.Caching.Memory", "Blog.Infrastructure.Caching.Memory\Blog.Infrastructure.Caching.Memory.csproj", "{26CFD8CA-BE51-47E7-8B92-A4BD677DE778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.WebUI.Infrastructure", "Blog.WebUI.Infrastructure\Blog.WebUI.Infrastructure.csproj", "{5DF41759-728F-4292-8812-BA122DCB745C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.WebUI.Infrastructure", "Blog.WebUI.Infrastructure\Blog.WebUI.Infrastructure.csproj", "{5DF41759-728F-4292-8812-BA122DCB745C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

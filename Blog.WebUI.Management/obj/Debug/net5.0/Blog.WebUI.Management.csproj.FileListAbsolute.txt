@@ -406,3 +406,4 @@ C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Management\obj\Debug\net5.0\Blog.WebUI
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Management\obj\Debug\net5.0\Blog.WebUI.Management.csproj.CopyComplete
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Management\obj\Debug\net5.0\Blog.WebUI.Management.genruntimeconfig.cache
 C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Management\obj\Debug\net5.0\ref\Blog.WebUI.Management.dll
+C:\Users\baris\Masaüstü\Blog\Blog.WebUI.Management\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs

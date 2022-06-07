@@ -8,7 +8,7 @@
     using System.Security.Claims;
     using Blog.Data;
     using Blog.Extensions.MediaHelper;
-    using Blog.WebUI.Management.Authorize;
+    using Blog.Model;
     using Blog.WebUI.Management.Models;
 
     public class HomeController : Controller
@@ -45,6 +45,65 @@
             };
 
             return View(model);
+        }
+
+        public IActionResult Register()
+        {
+            var model = new RegisterModel
+            {
+                Fullname = "",
+                Mail = "",
+                Username = "",
+                Password = "",
+                IsActive = false,
+                IsDeleted = false
+            };
+
+            return View(model);
+        }
+
+        [HttpPost]
+        public IActionResult Register(string fullName, string mail, string username, string password)
+        {
+            var errors = new List<string>();
+            var return_model = new RegisterModel();
+
+            if (string.IsNullOrEmpty(fullName)) errors.Add("İsim Boş Bırakılamaz");
+            if (string.IsNullOrEmpty(mail)) errors.Add("E-Mail Boş Bırakılamaz");
+            if (string.IsNullOrEmpty(username)) errors.Add("Kullanıcı Boş Bırakılamaz");
+            if (string.IsNullOrEmpty(password)) errors.Add("Şifre Boş Bırakılamaz");
+            if (errors.Count() > 0)
+            {
+                ViewBag.Result = new ViewModelResult(false, "Hata Oluştu", errors);
+                return View(return_model);
+            }
+
+            var author = _authorData.GetBy(x => x.Username == username && x.Mail == mail && x.Password == password && x.IsActive && !x.IsDeleted).FirstOrDefault();
+            if (author != null)
+            {
+                ViewBag.Result = new ViewModelResult(false, "Böyle bir kullanıcı zaten mevcut");
+                return View(return_model);
+            }
+
+            return_model = new RegisterModel
+            {
+                Fullname = fullName,
+                Mail = mail,
+                Username = username,
+                Password = password,
+                IsActive = false,
+                IsDeleted = false
+            };
+
+            var operationResult = _authorData.Insert(return_model.ToAuthor());
+            if (operationResult.IsSucceed)
+            {
+                ViewBag.Result = new ViewModelResult(true, "Kayıt Tamamlandı");
+
+                return RedirectToAction("Login");
+            }
+
+            return View(return_model);
         }
 
         [HttpPost]

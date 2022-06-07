@@ -65,14 +65,15 @@
                 var content_category_list = new List<Model.ContentCategory>();
                 foreach (var cat in CategoryIds)
                 {
-                    content_category_list.Add(new Model.ContentCategory()
+                    var model = new Model.ContentCategory()
                     {
                         CategoryId = cat,
                         ContentId = content.Id,
-                    });
-                }
+                    };
 
-                var insert_categories = _contentCategoryData.InsertBulk(content_category_list);
+                    var a = _contentCategoryData.Insert(model);
+                }
+                //var insert_categories = _contentCategoryData.InsertBulk(content_category_list);
 
                 if (!string.IsNullOrEmpty(Tags))
                 {

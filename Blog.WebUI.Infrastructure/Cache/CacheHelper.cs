@@ -119,14 +119,16 @@ namespace Blog.WebUI.Infrastructure.Cache
             get
             {
                 var fromCache = Get<List<Model.Content>>(NewContents_CacheKey);
-                if (fromCache == null)
+                /*if (fromCache == null)
                 {
-                    var datas = _contentData.GetBlogNewContents(25);//burayı 5 yaparak 5 makale çağırabilirsin
-                    if (datas != null && datas.Count() > 0)
-                    {
-                        Set(NewContents_CacheKey, datas);
-                        fromCache = datas;
-                    }
+                    
+                }*/
+
+                var datas = _contentData.GetBlogNewContents(25);//burayı 5 yaparak 5 makale çağırabilirsin
+                if (datas != null && datas.Count() > 0)
+                {
+                    Set(NewContents_CacheKey, datas);
+                    fromCache = datas;
                 }
 
                 return fromCache;

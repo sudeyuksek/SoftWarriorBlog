@@ -5,6 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\_assets\css\all.min.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\_assets\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\_assets\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\_assets\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\_assets\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\_assets\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\_assets\webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.0" />
   </ItemGroup>
 

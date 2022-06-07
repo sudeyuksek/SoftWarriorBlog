@@ -24,9 +24,10 @@
                 .OrderByDescending("PublishDate")
                 .Include(x => x.Media)
                 .Include(x => x.Author)
-                .Where(x => x.PublishDate <= dtNow && x.IsActive && !x.IsDeleted)
+                .Where(x => x.IsActive && !x.IsDeleted)
                 .Include(x => x.ContentCategories)
-                .Take(count).ToList();
+                //.Take(count)
+                .ToList();
         }
 
         public List<Model.Tag> GetAllTags()

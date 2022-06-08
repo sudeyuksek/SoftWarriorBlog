@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVHuBK5eMp/ys1u/gieeb1PdJhMqh42hkPrPjftn8f+8oQ9EkPavglbUpF8sW0vWsaJ8YycEE3ypy+9YOO/3mA==",
+  "dgSpecHash": "O8iAGjf7B+nBhhMb5aizMJhLcbj74GNQ+MC/xHeW+R/ZLM5zpjJgwZix6XQ1ze0p4EnN4V1Ybp9UclLr+X4zFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
+  "projectFilePath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baris\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\baris\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

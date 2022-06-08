@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GkcyIzYLcofnLjBeduaBsGcCQzmu72YDQm8Esk4cCJhp4aV2vnqsFJWB3Jwl2t4TkTDtvQ0ZiOz5i55Zr5tSg==",
+  "dgSpecHash": "6YgRT87I429oxgeRShtD4eF4RXryAl0TIqGXWD1puFU3I+lc/vzIaebXtq7lOAy7mAELfA5J81Pps2TyRHT4Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
+  "projectFilePath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baris\\.nuget\\packages\\cloudinarydotnet\\1.18.0\\cloudinarydotnet.1.18.0.nupkg.sha512",
     "C:\\Users\\baris\\.nuget\\packages\\magick.net-q16-anycpu\\11.1.2\\magick.net-q16-anycpu.11.1.2.nupkg.sha512",

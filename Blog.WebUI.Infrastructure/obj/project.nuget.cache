@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5LscpnLxyb0CBXzYfoJTXroBdOJMQOigRgZZQwbXXcXebn9JpbG1A56ov0iXuMGXCj0BmLvygCpuneu4o04PQ==",
+  "dgSpecHash": "WYIqwfUIYozyf2ywXg3gI7vKy6/qqcl9e5Yd1zeE1PEA3RUmXaTSm/5qUYLYlaqH3dmmiGyQVnzO9WPGxv3weQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baris\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\baris\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

@@ -6940,9 +6940,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
+      "projectUniqueName": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
       "projectName": "Blog.Infrastructure.Caching.Memory",
-      "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
+      "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj",
       "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Infrastructure.Caching.Memory\\obj\\",
       "projectStyle": "PackageReference",
@@ -6961,14 +6961,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj"
+            "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj"
             },
-            "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
-              "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj"
+            "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
+              "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj"
             },
-            "C:\\Users\\baris\\source\\repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj"
+            "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj"
             }
           }
         }

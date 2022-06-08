@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj": {}
+    "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
+    "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj",
+        "projectUniqueName": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj",
         "projectName": "Blog.Data",
-        "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj",
+        "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\Blog.Data.csproj",
         "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Data\\obj\\",
+        "outputPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
-                "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj"
+              "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
+                "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj"
               }
             }
           }
@@ -76,12 +76,12 @@
         }
       }
     },
-    "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
+    "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj",
+        "projectUniqueName": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj",
         "projectName": "Blog.Model",
-        "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Model\\Blog.Model.csproj",
+        "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj",
         "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\obj\\",
         "projectStyle": "PackageReference",

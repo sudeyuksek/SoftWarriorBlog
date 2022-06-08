@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46XiSk4r7xmk5JRSFEGHfTaL6uCSmu/53FgXXGlNvklh8EyMwbGS0rCjh+S7MI1IJURevftWr15f0OPYP01YJw==",
+  "dgSpecHash": "65Jup0cUolxwxG9g+cxK8JsaROB/9VnnStiLx7w0ZS8oXacUVVLDC4Hdzka+NqBhymVIUXhnlqVXiWM3h4DiKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.WebUI.Management\\Blog.WebUI.Management.csproj",
+  "projectFilePath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.WebUI.Management\\Blog.WebUI.Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baris\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\baris\\.nuget\\packages\\cloudinarydotnet\\1.18.0\\cloudinarydotnet.1.18.0.nupkg.sha512",

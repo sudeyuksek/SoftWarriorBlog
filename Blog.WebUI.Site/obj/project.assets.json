@@ -7548,19 +7548,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\baris\\.nuget\\packages\\": {}
+    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.WebUI.Site\\Blog.WebUI.Site.csproj",
+      "projectUniqueName": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.WebUI.Site\\Blog.WebUI.Site.csproj",
       "projectName": "Blog.WebUI.Site",
-      "projectPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.WebUI.Site\\Blog.WebUI.Site.csproj",
-      "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.WebUI.Site\\obj\\",
+      "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.WebUI.Site\\Blog.WebUI.Site.csproj",
+      "packagesPath": "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.WebUI.Site\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kemal YÜKSEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7574,17 +7574,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Data\\Blog.Data.csproj"
+            "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Data\\Blog.Data.csproj"
             },
-            "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj": {
-              "projectPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj"
+            "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj": {
+              "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Infrastructure.Caching.Memory\\Blog.Infrastructure.Caching.Memory.csproj"
             },
-            "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Model\\Blog.Model.csproj": {
-              "projectPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.Model\\Blog.Model.csproj"
+            "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Model\\Blog.Model.csproj": {
+              "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Model\\Blog.Model.csproj"
             },
-            "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\baris\\Masaüstü\\Blog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj"
+            "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.WebUI.Infrastructure\\Blog.WebUI.Infrastructure.csproj"
             }
           }
         }
@@ -7630,7 +7630,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

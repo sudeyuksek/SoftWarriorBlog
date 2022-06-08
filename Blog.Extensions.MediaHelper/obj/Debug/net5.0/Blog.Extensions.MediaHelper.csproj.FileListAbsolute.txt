@@ -10,3 +10,15 @@ C:\Users\baris\Masaüstü\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog
 C:\Users\baris\Masaüstü\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\refint\Blog.Extensions.MediaHelper.dll
 C:\Users\baris\Masaüstü\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
 C:\Users\baris\Masaüstü\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\ref\Blog.Extensions.MediaHelper.dll
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.deps.json
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.dll
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.csproj.AssemblyReference.cache
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.AssemblyInfoInputs.cache
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.AssemblyInfo.cs
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.csproj.CoreCompileInputs.cache
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.dll
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\refint\Blog.Extensions.MediaHelper.dll
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
+C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\ref\Blog.Extensions.MediaHelper.dll

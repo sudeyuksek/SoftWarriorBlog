@@ -61,6 +61,25 @@
 
             return View(model);
         }
+        public IActionResult ForgotPass()
+        {
+            var model = new Author();
+
+
+
+            //altına bişeyler koyacak mıyız
+            return View(model);
+            //boş model döndürecek
+        }
+
+        [HttpPost]
+        public IActionResult ForgotPass(string email)
+        {
+            var authors = _authorData.GetBy(x => x.Mail == email).FirstOrDefault();
+            return View(authors);
+        }
+      
+
 
         [HttpPost]
         public IActionResult Register(string fullName, string mail, string username, string password)
@@ -149,6 +168,7 @@
 
             return RedirectToAction("Index");
         }
+        
 
         [HttpGet]
         public IActionResult Logout()

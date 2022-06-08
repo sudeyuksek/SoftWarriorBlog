@@ -36,3 +36,22 @@ C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Infrastructure.Caching.Memor
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\refint\Blog.Infrastructure.Caching.Memory.dll
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.pdb
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\ref\Blog.Infrastructure.Caching.Memory.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Infrastructure.Caching.Memory.deps.json
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Infrastructure.Caching.Memory.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Infrastructure.Caching.Memory.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Model.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.WebUI.Infrastructure.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Data.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.Model.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\bin\Debug\net5.0\Blog.WebUI.Infrastructure.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.csproj.AssemblyReference.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.AssemblyInfoInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.AssemblyInfo.cs
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.csproj.CoreCompileInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.csproj.CopyComplete
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\refint\Blog.Infrastructure.Caching.Memory.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\Blog.Infrastructure.Caching.Memory.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Infrastructure.Caching.Memory\obj\Debug\net5.0\ref\Blog.Infrastructure.Caching.Memory.dll

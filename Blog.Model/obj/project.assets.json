@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\": {}
+    "C:\\Users\\baris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Model\\Blog.Model.csproj",
+      "projectUniqueName": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj",
       "projectName": "Blog.Model",
-      "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Model\\Blog.Model.csproj",
-      "packagesPath": "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Model\\obj\\",
+      "projectPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\Blog.Model.csproj",
+      "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kemal YÜKSEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -32,3 +32,20 @@ C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.WebUI.Infrastructure\obj\Deb
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\refint\Blog.WebUI.Infrastructure.dll
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.pdb
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\ref\Blog.WebUI.Infrastructure.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.WebUI.Infrastructure.deps.json
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.WebUI.Infrastructure.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.WebUI.Infrastructure.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.Model.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.Data.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\bin\Debug\net5.0\Blog.Model.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.AssemblyInfo.cs
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.csproj.CopyComplete
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\refint\Blog.WebUI.Infrastructure.dll
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\Blog.WebUI.Infrastructure.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.WebUI.Infrastructure\obj\Debug\net5.0\ref\Blog.WebUI.Infrastructure.dll

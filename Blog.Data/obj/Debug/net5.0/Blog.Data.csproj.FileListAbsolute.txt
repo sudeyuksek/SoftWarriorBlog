@@ -28,3 +28,18 @@ C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Data\obj\Debug\net5.0\Blog.D
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Data\obj\Debug\net5.0\refint\Blog.Data.dll
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Data\obj\Debug\net5.0\Blog.Data.pdb
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Data\obj\Debug\net5.0\ref\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Data\bin\Debug\net5.0\Blog.Data.deps.json
+C:\Users\baris\Source\Repos\Blog\Blog.Data\bin\Debug\net5.0\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Data\bin\Debug\net5.0\Blog.Data.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Data\bin\Debug\net5.0\Blog.Model.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Data\bin\Debug\net5.0\Blog.Model.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.AssemblyInfo.cs
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.csproj.CopyComplete
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\refint\Blog.Data.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\Blog.Data.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Data\obj\Debug\net5.0\ref\Blog.Data.dll

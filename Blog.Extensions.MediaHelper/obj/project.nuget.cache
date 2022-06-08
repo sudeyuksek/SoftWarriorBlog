@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "FXgbhb1ntyrKMPBcdI7GeSHg0RoeNdr/yDfc34fKVxTaa+7epKRQo8QDNHCOQ182g1P9JjB0czwUmW2FoOwnUQ==",
+  "dgSpecHash": "8GkcyIzYLcofnLjBeduaBsGcCQzmu72YDQm8Esk4cCJhp4aV2vnqsFJWB3Jwl2t4TkTDtvQ0ZiOz5i55Zr5tSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
+  "projectFilePath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\cloudinarydotnet\\1.18.0\\cloudinarydotnet.1.18.0.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\magick.net-q16-anycpu\\11.1.2\\magick.net-q16-anycpu.11.1.2.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\magick.net.core\\11.1.2\\magick.net.core.11.1.2.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
-    "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\baris\\.nuget\\packages\\cloudinarydotnet\\1.18.0\\cloudinarydotnet.1.18.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\magick.net-q16-anycpu\\11.1.2\\magick.net-q16-anycpu.11.1.2.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\magick.net.core\\11.1.2\\magick.net.core.11.1.2.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

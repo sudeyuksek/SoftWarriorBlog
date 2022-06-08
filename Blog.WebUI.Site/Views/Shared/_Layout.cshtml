@@ -25,13 +25,6 @@
                 <div class="col-12 col-md-3 fh5co_padding_menu">
                     <img src="~/_assets/images/logo.png" alt="img" class="fh5co_logo_width" />
                 </div>
-                <div class="col-12 col-md-9 align-self-center fh5co_mediya_right">
-                 
-                 
-                  
-                  
-                    <div class="clearfix"></div>
-                </div>
             </div>
         </div>
     </div>
@@ -48,7 +41,7 @@
                     <ul class="navbar-nav mr-auto">
 
                         <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Ana Sayfa <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="@Url.Action("Index","Home")">Ana Sayfa <span class="sr-only">(current)</span></a>
                         </li>
                         @foreach(var item in cache.Categories)
                         {

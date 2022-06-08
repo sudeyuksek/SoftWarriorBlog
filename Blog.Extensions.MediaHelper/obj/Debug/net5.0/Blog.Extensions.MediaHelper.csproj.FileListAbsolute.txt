@@ -22,3 +22,15 @@ C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\D
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\refint\Blog.Extensions.MediaHelper.dll
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
 C:\Users\Kemal YÜKSEK\Desktop\SoftWarriorBlog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\ref\Blog.Extensions.MediaHelper.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.deps.json
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\bin\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.csproj.AssemblyReference.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.AssemblyInfoInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.AssemblyInfo.cs
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.csproj.CoreCompileInputs.cache
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\refint\Blog.Extensions.MediaHelper.dll
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\Blog.Extensions.MediaHelper.pdb
+C:\Users\baris\Source\Repos\Blog\Blog.Extensions.MediaHelper\obj\Debug\net5.0\ref\Blog.Extensions.MediaHelper.dll

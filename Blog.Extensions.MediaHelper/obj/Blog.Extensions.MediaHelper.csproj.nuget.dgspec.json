@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj": {}
+    "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj": {
+    "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
+        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
         "projectName": "Blog.Extensions.MediaHelper",
-        "projectPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
-        "packagesPath": "C:\\Users\\Kemal YÜKSEK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kemal YÜKSEK\\Desktop\\SoftWarriorBlog\\Blog.Extensions.MediaHelper\\obj\\",
+        "projectPath": "C:\\Users\\baris\\source\\repos\\Blog\\Blog.Extensions.MediaHelper\\Blog.Extensions.MediaHelper.csproj",
+        "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baris\\Source\\Repos\\Blog\\Blog.Extensions.MediaHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kemal YÜKSEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

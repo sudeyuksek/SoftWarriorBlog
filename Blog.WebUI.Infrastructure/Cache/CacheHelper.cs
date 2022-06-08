@@ -15,6 +15,10 @@ namespace Blog.WebUI.Infrastructure.Cache
         RolePageData _rolePageData;
         ContentData _contentData;
 
+        public CacheHelper(ICache cache)
+        {
+            this.cache = cache;
+        }
         public CacheHelper(ICache cache, CategoryData categoryData,
             AuthorData _authorData, SettingData _settingData, RolePageData rolePageData, ContentData contentData)
         {

@@ -10,6 +10,8 @@
     using Blog.Extensions.MediaHelper;
     using Blog.Model;
     using Blog.WebUI.Management.Models;
+    using Blog.WebUI.Management.Singleton;
+    using Blog.WebUI.Infrastructure.Cache;
 
     public class HomeController : Controller
     {
@@ -150,7 +152,7 @@
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, author.Fullname),
-                new Claim("AuthorId", author.Id.ToString()),
+                new Claim(ClaimTypes.NameIdentifier, author.Id.ToString()),
                 new Claim(ClaimTypes.Role, author.RoleId.ToString())
             };
 
@@ -166,7 +168,11 @@
                 auth_properties
             );
 
-            return RedirectToAction("Index");
+            var loginUser = LoginUser.Instance;
+            loginUser.AuthorId = author.Id;
+            loginUser.FullName = author.Fullname;
+
+            return RedirectToAction("Index", "Content");
         }
         
 
@@ -176,6 +182,8 @@
             if (User.Identity.IsAuthenticated)
                 HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
+            var loginUser = LoginUser.Instance;
+            loginUser.AuthorId = 0;
             return RedirectToAction("Login","Home");
         }
 

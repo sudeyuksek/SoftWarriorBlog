@@ -35,7 +35,9 @@
                             </a> <a href="@Url.Action("Index","Content", new { slug = item.Slug })" class="fh5co_mini_time py-3">
                                 @if (item.Author != null)
                                 {
+                                    <a href="@Url.Action("Index","Author", new { id = item.AuthorId })" class="fh5co_magna py-2">
                                     @item.Author.Fullname <span>-</span>
+                                    </a>
                                 }
                                 @item.PublishDate.ToString("dd MMMM yyyy")
                             </a>

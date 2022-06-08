@@ -8,6 +8,8 @@
     using Blog.WebUI.Management.Authorize;
     using Blog.WebUI.Management.Helpers;
     using Blog.WebUI.Management.Models;
+    using Blog.WebUI.Management.Singleton;
+    using Blog.WebUI.Infrastructure.Cache;
 
     [Authorize]
     public class ContentController : Controller
@@ -57,6 +59,9 @@
                 return View(content);
             }
 
+            content.AuthorId = LoginUser.Instance.AuthorId;
+
+
             content.Slug = content.Slug.ToSlug();
 
             var operationResult = _contentData.Insert(content);
@@ -73,7 +78,6 @@
 
                     var a = _contentCategoryData.Insert(model);
                 }
-                //var insert_categories = _contentCategoryData.InsertBulk(content_category_list);
 
                 if (!string.IsNullOrEmpty(Tags))
                 {

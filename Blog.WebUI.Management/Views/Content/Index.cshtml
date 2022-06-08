@@ -9,9 +9,6 @@
         <h1 class="h3 mb-0 text-gray-800">Makaleler</h1>
         <a href="@Url.Action("Add","Content")" class="btn btn-sm btn-primary shadow-sm">Yeni Makale Ekle</a>
     </div>
-    <p class="mb-4 text-content">
-        Burada Makaleleri listeleyebilirim
-    </p>
 
     <div class="card shadow mb-4">
         <div class="card-header py-3">
@@ -31,15 +28,18 @@
                     <tbody>
                         @foreach (var item in Model)
                         {
-                            <tr>
-                                <td>@item.Title</td>
-                                <td>@item.PublishDate</td>
-                                <td>@Html.Raw(item.IsActive ? "Aktif" : "Pasif")</td>
-                                <td>
-                                    <a href="@Url.Action("Edit","Content", new { id = item.Id })" class="btn btn-primary">Düzenle</a>
-                                    <a href="@Url.Action("Delete","Content", new { id = item.Id })" class="btn btn-danger">Sil</a>
-                                </td>
-                            </tr>
+                            @if(item.AuthorId == LoginUser.Instance.AuthorId || LoginUser.Instance.IsAdmin){
+                                <tr>
+                                    <td>@item.Title</td>
+                                    <td>@item.CreateDate</td>
+                                    <td>@Html.Raw(item.IsActive ? "Aktif" : "Pasif")</td>
+                                    <td>
+                                        <a href="@Url.Action("Edit","Content", new { id = item.Id })" class="btn btn-primary">Düzenle</a>
+                                        <a href="@Url.Action("Delete","Content", new { id = item.Id })" class="btn btn-danger">Sil</a>
+                                    </td>
+                                </tr>
+                            }
+
                         }
                     </tbody>
                 </table>
